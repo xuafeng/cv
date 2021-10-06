@@ -9,7 +9,7 @@ I visited Indiana University Bloomington as a visiting scholar in 2018.
 My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale. 
 I am interested in proposing new methods or building tools to discover and secure exposed vulnerable network/IoT devices. Hoping our research can improve the security of the Internet’s core infrastructure or guide the design/deployment of widely used systems.
 
-Feel free to reach me at xuafeng (at) microsoft.com. 
+Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or find errors. Thanks :)
 
 ### News
 + **Sep 10, 2021** &nbsp; We are hiring [full-time interns](https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern?language=chinese), who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
