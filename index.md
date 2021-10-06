@@ -23,7 +23,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 
 - Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
 
-- Nan Zhang, Xianghang Mi, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings 40th IEEE Symposium on Security and Privacy (S\&P'2019). (CCF-A) CSAW'19 Best Paper Award (3rd Place, 3 out of 80)
+- Nan Zhang, Xianghang Mi, **Xuan Feng**, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A) **CSAW'19 Best Paper Award** (3rd Place, 3 out of 80)
 
 - Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan,  Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou. Demystifying Hidden Privacy Settings in Mobile Apps. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A)
 
