@@ -12,16 +12,16 @@ I am interested in proposing new methods or building tools to discover and secur
 Feel free to reach me at xuafeng (at) microsoft.com. 
 
 ### News
-+ Sep 10, 2021 We are hiring full-time interns, who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
++ **Sep 10, 2021** &nbsp; We are hiring [full-time interns](https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern?language=chinese), who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
 
 ### Selected Publications
 
-- _Xuan Feng_, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis. Proceedings of The USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
+- **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis. Proceedings of The USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 
-- Xuan Feng, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the The USENIX Security Symposium 2018} (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
+- **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the The USENIX Security Symposium 2018} (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 
 
-- Xianghang Mi, Xuan Feng, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
+- Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
 
 
 - Nan Zhang, Xianghang Mi, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings 40th IEEE Symposium on Security and Privacy (S\&P'2019). (CCF-A) CSAW'19 Best Paper Award (3rd Place, 3 out of 80)
