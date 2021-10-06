@@ -1,4 +1,4 @@
-[CV](https://xuafeng.github.io/CV-EN-2021.pdf)   [blogs](https://xuafeng.github.io/blogs/) [publications]()
+[CV](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;[blogs](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp; [publications]()
 
 ### About
 
