@@ -1,4 +1,3 @@
-<font size=5> Security Researcher @ Microsoft Research Asia </font>
 
 [**CV**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**blogs**](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp;&nbsp; [**publications**]()
 
@@ -7,6 +6,8 @@
 I am a security researcher at the Trustworthy Systems group in the Systems and Networking research area at Microsoft Research Asia. I received my Ph.D. in Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale.
 
 I am interested in proposing new methods or building tools to discover and secure exposed vulnerable network/IoT devices. Hoping our research can improve the security of the Internet’s core infrastructure or guide the design/deployment of widely used systems.
+
+Feel free to reach me at xuafeng (at) microsoft.com, though I may not be very responsive. 
 
 ### News
 + Sep 10, 2021 We are hiring full-time interns, who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
