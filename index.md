@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+### About
 
-You can use the [editor on GitHub](https://github.com/xuafeng/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a security researcher at the Trustworthy Systems group in the Systems and Networking research area at Microsoft Research Asia. I received my Ph.D. in Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in proposing new methods or building tools to discover and secure exposed vulnerable network/IoT devices. Hoping our research can improve the security of the Internet’s core infrastructure or guide the design/deployment of widely used systems.
 
-### Markdown
+### News
++ Sep 10, 2021 We are hiring full-time interns, who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Selected Publications
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuafeng/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
+- Understanding and securing device vulnerabilities through automated bug report analysis. Feng, Xuan, Liao, Xiaojing, Wang, X, Wang, Haining, Li, Qiang, Yang, Kai, Zhu, Hongsong, and Sun, Limin. In Proceedings of the 28th USENIX Conference on Security Symposium (SEC) 2019
+- 
+### Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
