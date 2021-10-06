@@ -22,27 +22,21 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 
 - **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the The USENIX Security Symposium 2018} (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 
-
 - Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
-
 
 - Nan Zhang, Xianghang Mi, Xuan Feng, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings 40th IEEE Symposium on Security and Privacy (S\&P'2019). (CCF-A) CSAW'19 Best Paper Award (3rd Place, 3 out of 80)
 
 - Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan,  Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou. Demystifying Hidden Privacy Settings in Mobile Apps. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A)
 
-
-- Kan Yuan, Di Tang, Xiaojing Liao，XiaoFeng Wang, Xuan Feng, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang. Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion. Proceedings 40th IEEE Symposium on Security and Privacy (S\&P'2019). 
+- Kan Yuan, Di Tang, Xiaojing Liao，XiaoFeng Wang, Xuan Feng, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang. Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). 
 
 - Qiang Li, Xuan Feng, Zhi Li, Haining Wang, Linmin Sun. Towards Fine-grained Fingerprinting of Firmware in Online Embedded Devices. Proceedings of the IEEE International Conference on Computer Communications 2018 (Infocom'2018), April 15-19, 2018, Honolulu, HI, USA. (CCF-A)
 
 - Qiang Li, Xuan Feng, Haining Wang, Limin Sun. Automatic Discovery of Surveillance Devices in the Cyberspace. Proceedings of the ACM Multimedia Systems 2017 Conference (MMsys'17), June 20-23, 2017, Taipei, Taiwan.
 
-
 - Xuan Feng, Qiang Li, Haining Wang, Limin Sun. Characterizing Industrial Control Equipments on the Internet. IEEE International Conference on Network Protocols (ICNP'16), November 8-11, 2016, Singapore. (CCF-B)
-\vspace{2mm}
 
-
-- Xuan Feng, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun. Identification of Visible Industrial Control Devices at Internet Scale. IEEE International Conference on Communications} (ICC'16), May 23-27, 2016, Kuala Lumpur, Malaysia. (CCF-C)
+- Xuan Feng, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun. Identification of Visible Industrial Control Devices at Internet Scale. IEEE International Conference on Communications (ICC'16), May 23-27, 2016, Kuala Lumpur, Malaysia. (CCF-C)
 
 - Xuan Feng, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Jie Cui, Limin Sun. Active Profiling of Physical Devices at Internet Scale. IEEE International Conference on Computer Communication and Networks (ICCCN'16), August 1-4, 2016, Waikoloa, Hawaii, USA. (CCF-C)
 
