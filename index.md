@@ -1,10 +1,12 @@
 
-[**CV**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**blogs**](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp;&nbsp; [**publications**]()
+[**CV**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**blogs**](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp;&nbsp; [**publications**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
 
 ### About
 
-I am a security researcher at the Trustworthy Systems group in the Systems and Networking research area at Microsoft Research Asia. I received my Ph.D. in Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale.
+I am a security researcher at the Trustworthy Systems group in the Systems and Networking research area at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. in [Institute of Information Engineering](http://www.iie.ac.cn/) (IIE), Chinese Academy of Sciences (CAS). 
+I visited Indiana University Bloomington as a visiting scholar in 2018.
 
+My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale. 
 I am interested in proposing new methods or building tools to discover and secure exposed vulnerable network/IoT devices. Hoping our research can improve the security of the Internet’s core infrastructure or guide the design/deployment of widely used systems.
 
 Feel free to reach me at xuafeng (at) microsoft.com, though I may not be very responsive. 
