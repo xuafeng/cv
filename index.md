@@ -2,7 +2,7 @@
 [**<font color= gray> CV </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= gray> blogs </font>**](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= gray> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
 
 
-### About 🤡
+### About
 
 I am a security researcher at the Trustworthy Systems group in the Systems and Networking research area at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. in [Institute of Information Engineering](http://www.iie.ac.cn/) (IIE), Chinese Academy of Sciences (CAS) in 2020. 
 I visited Indiana University Bloomington as a visiting scholar in 2018.
