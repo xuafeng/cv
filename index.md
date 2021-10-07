@@ -17,17 +17,17 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 
 ### Selected Publications
 
-- **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis. Proceedings of The USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
+- **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis. Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 
-- **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the The USENIX Security Symposium 2018} (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
+- **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 
-- Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
+- Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
 
-- Nan Zhang, Xianghang Mi, **Xuan Feng**, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A) **CSAW'19 Best Paper Award** (3rd Place, 3 out of 80)
+- Nan Zhang, Xianghang Mi, **Xuan Feng**, XiaoFeng Wang, Yuan Tian, Feng Qian. Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems. Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A) **CSAW'19 Best Paper Award** (3rd Place, 3 out of 80)
 
-- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan,  Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou. Demystifying Hidden Privacy Settings in Mobile Apps. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A)
+- Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, Xuan Feng, Kan Yuan,  Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou. Demystifying Hidden Privacy Settings in Mobile Apps. Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A)
 
-- Kan Yuan, Di Tang, Xiaojing Liao，XiaoFeng Wang, Xuan Feng, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang. Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion. Proceedings 40th IEEE Symposium on Security and Privacy (S&P'2019). 
+- Kan Yuan, Di Tang, Xiaojing Liao，XiaoFeng Wang, Xuan Feng, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang. Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion. Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). 
 
 - Qiang Li, Xuan Feng, Zhi Li, Haining Wang, Linmin Sun. Towards Fine-grained Fingerprinting of Firmware in Online Embedded Devices. Proceedings of the IEEE International Conference on Computer Communications 2018 (Infocom'2018), April 15-19, 2018, Honolulu, HI, USA. (CCF-A)
 
@@ -43,7 +43,6 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 - Qiang Li, Xuan Feng, Lian Zhao, Limin Sun. A Framework for Searching Internet-wide Devices. IEEE Network, 2017. (JCR Q1)
 
 - Qiang Li, Xuan Feng, Haining Wang and Limin Sun. Understanding the Usage of Industrial Control System Devices on the Internet. IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
-- 
 
 ### Contact
 
