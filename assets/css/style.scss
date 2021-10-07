@@ -26,3 +26,19 @@ h2 {
   font-size: 20px;
   background: url('../images/bg_hr.png') repeat-x bottom;
 }
+
+#project_title {
+  margin: 0;
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  text-shadow: #111 0px 0px 10px;
+}
+
+#project_tagline {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 300;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+}
