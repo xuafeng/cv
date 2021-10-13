@@ -14,6 +14,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 
 ### News
 + **Sep 10, 2021** &nbsp; We are hiring [full-time interns](https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern?language=chinese), who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
++ **Oct 13, 2021** &nbsp;[WSLg](https://github.com/microsoft/wslg) in Windows 11 is very cool. You can take a try!
 
 ### Selected Publications
 
