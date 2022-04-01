@@ -46,9 +46,11 @@ h1 {
 }
 
 h2 {
-  padding-bottom: 8px;
-  font-size: 28px;
-  background: url('../images/bg_hr.png') repeat-x bottom;
+    padding-bottom: 0px;
+    font-size: 22px;
+    background: url(../images/bg_hr.png) repeat-x bottom;
+    font-weight: normal;
+//     font-weight: bold;
 }
 
 #project_title {
