@@ -16,10 +16,8 @@ body {
     font-size: 16px;
     line-height: 1.6;
     word-break: break-word;
-//     background: var(--theme);
-    background: rgb(28 29 33);
+    background: var(--theme);
 }
-
 
 // body {
 //     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
@@ -48,6 +46,10 @@ p {
 
 ul, ol, dl {
     margin-bottom: 10px;
+}
+
+li {
+    margin-top: 5px;
 }
 
 h1 {
