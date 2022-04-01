@@ -35,10 +35,11 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 
 ### Statistics
 <div style="width:90%; margin:0 auto; overflow:auto; _display:inline-block;">
-    <div>
-        Total Unique Visitors: <!-- hitwebcounter Code START -->
-    <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=7968646&style=0024&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  </div>
+<div>
+Total Unique Visitors: <!-- hitwebcounter Code START -->
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=7968650&style=0024&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
+</div>
 <div style="width: 30px; margin: 0 auto;"> 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3ICdSQOHVTlzy261jUfWIyD5i8hQ0u7c2I9QDBIDz-0"></script>
 </div>
