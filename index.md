@@ -33,17 +33,11 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 - Qiang Li, **Xuan Feng**, Lian Zhao, Limin Sun. A Framework for Searching Internet-wide Devices. IEEE Network, 2017. (JCR Q1)
 - Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. Understanding the Usage of Industrial Control System Devices on the Internet. IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
 
-### Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-<!-- hitwebcounter Code START -->
+### Statistics
+Total Unique Visitors: <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7968641&style=0024&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
-
-<div style="width: 30px; margin: 0 auto;"> 
- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3ICdSQOHVTlzy261jUfWIyD5i8hQ0u7c2I9QDBIDz-0"></script>
+<img src="https://hitwebcounter.com/counter/counter.php?page=7968645&style=0001&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
+                                  
+<div style="width: 5px; margin: 0 auto;"> 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=3ICdSQOHVTlzy261jUfWIyD5i8hQ0u7c2I9QDBIDz-0"></script>
 </div>
-
-
-
