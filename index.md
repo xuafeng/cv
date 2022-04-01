@@ -9,14 +9,14 @@ I visited Indiana University Bloomington as a visiting scholar in 2018.
 My research interests include IoT security, cyber security, and network measurements, with the specific focus on using a data-driven approach to study threats, weakness, and abuse on network/IoT devices at global scale. 
 I am interested in proposing new methods or building tools to discover and secure exposed vulnerable network/IoT devices. Hoping our research can improve the security of the Internet’s core infrastructure or guide the design/deployment of widely used systems.
 
-Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or find errors. Thanks :)
+Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Thanks :)
 
 ### 📢 News 
 + **Sep 10, 2021** &nbsp; We are hiring [full-time interns](https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern?language=chinese), who have strong interests in network security or IoT security. If you are interested, please send me an Email with your CV.
 + **Oct 13, 2021** &nbsp;[WSLg](https://github.com/microsoft/wslg) in Windows 11 is very cool. You can take a try!
 
-### Selected Publications
-
+### 📖 Selected Publications
+#### Conference
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis. Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices. Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 + Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. Resident Evil: Understanding Residential IP Proxy as a Dark Service. Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
@@ -29,6 +29,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions or fi
 + **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun. Identification of Visible Industrial Control Devices at Internet Scale. IEEE International Conference on Communications (ICC'16), May 23-27, 2016, Kuala Lumpur, Malaysia. (CCF-C)
 + **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Jie Cui, Limin Sun. Active Profiling of Physical Devices at Internet Scale. IEEE International Conference on Computer Communication and Networks (ICCCN'16), August 1-4, 2016, Waikoloa, Hawaii, USA. (CCF-C)
 
+#### Journal
 - Qiang Li, **Xuan Feng**, Lian Zhao, Limin Sun. A Framework for Searching Internet-wide Devices. IEEE Network, 2017. (JCR Q1)
 - Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. Understanding the Usage of Industrial Control System Devices on the Internet. IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
 
