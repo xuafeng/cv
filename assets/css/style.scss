@@ -14,10 +14,20 @@ header {
 body {
     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
     font-size: 16px;
-    line-height: 1.4;
+    line-height: 1.6;
     word-break: break-word;
-    background: var(--theme);
+//     background: var(--theme);
+    background: rgb(28 29 33);
 }
+
+
+// body {
+//     font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,open sans,helvetica neue,sans-serif;
+//     font-size: 16px;
+//     line-height: 1.6;
+//     word-break: break-word;
+//     background: var(--theme);
+// }
 
 #header_wrap {
   background: #212121 repeat-x bottom;
