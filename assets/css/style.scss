@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+header {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+    background: #212121;
+    border-bottom: solid 1px #275da1;
+}
+
 #header_wrap {
   background: #212121 repeat-x bottom;
   background: -moz-linear-gradient(top, #373737, #212121);
