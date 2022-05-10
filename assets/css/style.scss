@@ -8,6 +8,7 @@ header {
     padding-bottom: 40px;
     //font-family: 'Architects Daughter', 'Helvetica Neue', 'DM Sans', Helvetica, Arial, serif;
     font-family:'DM Sans', sans-serif;
+    color:#0053d6;
     background: #212121;
     border-bottom: solid 1px #275da1;
 }
@@ -19,7 +20,8 @@ body {
     line-height: 1.6;
     word-break: break-word;
     background: var(--theme);
-    color: #1f1f1f;
+    //color: #1f1f1f;
+    color:#123693
 }
 
 // body {
@@ -64,8 +66,8 @@ h2 {
     padding-bottom: 0px;
     font-size: 22px;
     background: url(../images/bg_hr.png) repeat-x bottom;
-    font-weight: normal;
-//     font-weight: bold;
+    //font-weight: normal;
+    font-weight: bold;
 }
 
 #project_title {
