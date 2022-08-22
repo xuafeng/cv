@@ -1,7 +1,7 @@
 
 
 
-[**<font color= '#123693'> cv </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= '#123693'> blog </font>**](https://xuafeng.github.io/blogs/)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= '#123693'> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
+[**<font color= '#123693'> cv </font>**](https://xuafeng.github.io/CV-EN-2021.pdf) &nbsp; &nbsp; &nbsp;&nbsp;[**<font color= '#123693'> blog </font>**](https://xuafeng.github.io/posts.md)  &nbsp; &nbsp; &nbsp;&nbsp; [**<font color= '#123693'> publications </font>**](https://xuafeng.github.io/cv/#:~:text=Selected%20Publications)
 
 
 ## ⛩️ About
