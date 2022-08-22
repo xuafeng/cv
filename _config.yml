@@ -2,7 +2,7 @@
 title: Xuan Feng's Homepage 🏰
 author: Riccardo Graziosi 
 description:  my resume.
-theme: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "auto" 
