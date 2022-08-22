@@ -15,7 +15,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 + **Oct 13, 2021** &nbsp;[WSLg](https://github.com/microsoft/wslg) in Windows 11 is very cool. You can take a try!
 
 
-## 𒑕🔙 selected publications
+## 𒑕 selected publications
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices._ Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 + Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. _Resident Evil: Understanding Residential IP Proxy as a Dark Service._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
@@ -28,7 +28,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 
 ## 📊 Statistics
 
-Total Unique Visitors: <!-- hitwebcounter Code START -->
+Total Unique Visitors 🔙: <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7968650&style=0024&nbdigits=5&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>  
 <div style="width: 30px; margin: 0 auto;"> 
