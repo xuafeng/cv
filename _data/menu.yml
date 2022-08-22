@@ -10,6 +10,6 @@ entries:
   - title: publications
     url: publications
 
-  - title: rss
-    url: feed.xml
+#   - title: rss
+#     url: feed.xml
   
