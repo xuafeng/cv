@@ -8,7 +8,7 @@ entries:
   - title: blogs
     url: https://xuafeng.github.io/blogs
   - title: publications
-    url: publication
+    url: publications
 
   - title: rss
     url: feed.xml
