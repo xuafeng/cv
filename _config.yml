@@ -1,11 +1,11 @@
 
-title: Xuan Feng's Homepage 🏰
-author: Riccardo Graziosi 
+title: Xuan Feng's Homepage 🏚
+author: Xuan Feng
 description:  my resume.
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "auto" 
+  appearance: "dark" 
   back_home_text: ".." 
   date_format: "%Y-%m-%d"
   show_description: false 
