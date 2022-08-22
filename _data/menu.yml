@@ -3,12 +3,12 @@
 
 entries:
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  - title: cv
+    url: https://xuafeng.github.io/CV-EN-2021.pdf
+  - title: blogs
+    url: https://xuafeng.github.io/blogs
+  - title: publications
+    url: publication
 
   - title: rss
     url: feed.xml
