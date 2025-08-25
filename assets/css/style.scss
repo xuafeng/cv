@@ -1,0 +1,60 @@
+---
+---
+
+/* Custom styles to make the website wider for no-style-please theme */
+
+/* Remove any default max-width constraints */
+html {
+  max-width: none !important;
+}
+
+/* Set wider body width */
+body {
+  max-width: 1000px !important;  /* Increase from default ~600px to 1000px */
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 20px !important;
+  box-sizing: border-box;
+}
+
+/* Override any container or wrapper limitations */
+.container,
+main,
+article,
+.content,
+.wrapper,
+header,
+nav {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Ensure all text content uses full width */
+p, div, section, h1, h2, h3, h4, h5, h6 {
+  max-width: 100% !important;
+}
+
+/* Make sure lists and code blocks also expand */
+ul, ol, pre, code, blockquote {
+  max-width: 100% !important;
+}
+
+/* For the no-style-please theme specifically */
+.no-style-please {
+  max-width: 1000px !important;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 1040px) {
+  body {
+    max-width: 95% !important;
+    padding: 15px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  body {
+    max-width: 100% !important;
+    padding: 10px !important;
+  }
+}
