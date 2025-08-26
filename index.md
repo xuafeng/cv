@@ -26,7 +26,7 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Characterizing Industrial Control Equipments on the Internet._ IEEE International Conference on Network Protocols (ICNP'16), November 8-11, 2016, Singapore. (CCF-B)
 - Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. _Understanding the Usage of Industrial Control System Devices on the Internet._ IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
 
-## 📊 statistics
+## statistics
 
 Total Unique Visitors 🔙: <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
