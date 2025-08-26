@@ -44,6 +44,12 @@ ul, ol, pre, code, blockquote {
   max-width: 1000px !important;
 }
 
+.w {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 4rem 2rem
+}
+
 /* Responsive design for smaller screens */
 @media (max-width: 1040px) {
   body {
@@ -58,3 +64,4 @@ ul, ol, pre, code, blockquote {
     padding: 10px !important;
   }
 }
+
