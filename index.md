@@ -17,22 +17,17 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 + **Sep 10, 2021** &nbsp; We are hiring [full-time interns](https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern?language=chinese), who have strong interests in network security or IoT security. If you are interested, please send me an email with your CV.
 + **Aug 17, 2020** &nbsp; I joined Microsoft Research Asia - Beijing as a researcher.
 
-
 ## projects
 
-#### AI for Security
-My Ph.D. research focused on using AI techniques (NLP) to enhance operational security in IoT domains. With the new AI technologies (LLM) emerging, I realized that there is a great potential to apply them for more broader security areas. Some of my recent explorations include:
+**AI for Security**. My Ph.D. research focused on using AI techniques (NLP) to enhance operational security in IoT domains. With the new AI technologies (LLM) emerging, I realized that there is a great potential to apply them for more broader security areas. Some of my recent explorations include:
 
 + LLM for Asset Discovery: leverage LLM to write rules for device discovery (w/ MS Defender EASM/MDE)
-+ LLM for Bot Detection (w/ MS Copilot): leverage LLM to label bot accounts accessing MS Copilot
++ LLM for Bot Detection: leverage LLM to label bot accounts accessing MS Copilot (w/ MS Copilot)
 + LLM for OSINT Processing: leverage LLM to write production quality TI reports (w/ MDTI, Sentinel, EASM and Security Copilot)
-<!-- + LLM for Honeypot Simulation -->
-<!-- + LLM for Static Analysis (C/C++ UaF vulnerability detection).
-+ Secure PowerShell Code Generation: leverage LLM to generate secure PowerShell scripts. -->
++ LLM for Static Analysis: leverage LLM for C/C++ UaF vulnerability detection.
++ Secure PowerShell Generation: leverage LLM to generate secure PowerShell scripts.
 
-#### AI for System
-I am also interested in using AI techniques to address challenging system problems. Current AI can now write code—but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design systems is a critical step toward unlocking its next stage of capabilities. We are activately working on pursing systems intelligence.
-
+**AI for System**. I am also interested in using AI techniques to address challenging system problems. Current AI can now write code—but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design systems is a critical step toward unlocking its next stage of capabilities. We are activately working on pursing systems intelligence.
 
 ## selected publications
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
