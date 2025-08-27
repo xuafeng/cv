@@ -5,7 +5,12 @@ title: publications
 
 ## selected publications
 _preprint_
-+ coming soon
++ Yuanye Liu, Jiahang Xu, Li Lyna Zhang, Qi Chen, Xuan Feng, Yang Chen, Zhongxin Guo, Yuqing Yang, Peng Cheng. _Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization_, arXiv:2502.04295 
++ Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, Xuan Feng, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, Peng Cheng, Mao Yang. _Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models_, arXiv:2501.13629
++ Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun. _Harnessing the Power of LLM to Support Binary Taint Analysis_, arXiv:2310.08275 
++ Haoyuan Wang, Yue Xue, Xuan Feng, Chao Zhou, Xianghang Mi. _Port Forwarding Services Are Forwarding Security Risks_, arXiv:2403.16060
++ Yu Bi, Yekai Li, Xuan Feng, Xianghang Mi. _Enabling privacy-preserving cyber threat detection with federated learning_, arXiv:2404.05130
++ Xuan Feng, Shuo Chen, Haining Wang. _An internet-wide penetration study on nat boxes via tcp/ip side channel_, arXiv:2311.17392
 
 _conference_
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
