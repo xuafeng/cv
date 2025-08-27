@@ -1,54 +1,13 @@
 ---
 ---
 
-/* Custom styles to make the website wider for no-style-please theme */
+@import "no-style-please";
 
-/* Remove any default max-width constraints */
-html {
-  max-width: none !important;
-}
-
-/* Set wider body width */
-body {
-  max-width: 1200px !important;  /* Increase from default ~600px to 1200px */
-  width: 100% !important;
-  margin: 0 auto !important;
-  padding: 20px !important;
-  box-sizing: border-box;
-}
-
-/* Override any container or wrapper limitations */
-.container,
-main,
-article,
-.content,
-.wrapper,
-header,
-nav {
-  max-width: 100% !important;
-  width: 100% !important;
-}
-
-/* Ensure all text content uses full width */
-p, div, section, h1, h2, h3, h4, h5, h6 {
-  max-width: 100% !important;
-}
-
-/* Make sure lists and code blocks also expand */
-ul, ol, pre, code, blockquote {
-  max-width: 100% !important;
-}
-
-/* For the no-style-please theme specifically */
-.no-style-please {
-  max-width: 1200px !important;
-}
-
-/* Override the theme's main wrapper class */
+/* Custom overrides to make the website wider */
 .w {
-    max-width: 1200px !important;
+    max-width: 800px !important;
     margin: 0 auto;
-    padding: 4rem 2rem
+    padding: 4rem 2rem;
 }
 
 /* Responsive design for smaller screens */
