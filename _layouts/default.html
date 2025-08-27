@@ -8,6 +8,15 @@
 </head>
 <body>
   <div class="wide-container" style="max-width: 1200px; margin: 0 auto; padding: 4rem 2rem; width: 90%;">
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <nav>
+        [<a href="https://xuafeng.github.io/CV-EN-2021.pdf"><font color="#123693">cv</font></a>] &nbsp;
+        [<a href="https://xuafeng.github.io/blogs"><font color="#123693">blog</font></a>] &nbsp;
+        [<a href="{{ '/publications' | relative_url }}"><font color="#123693">publications</font></a>]
+      </nav>
+    </header>
+    
     {{ content }}
   </div>
 </body>
