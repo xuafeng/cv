@@ -7,15 +7,15 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>
-  <div class="wide-container" style="max-width: 1200px; margin: 0 auto; padding: 4rem 2rem; width: 90%;">
-    <header>
-      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
-      <nav>
-        [<a href="https://xuafeng.github.io/CV-EN-2021.pdf"><font color="#123693">cv</font></a>] &nbsp;
-        [<a href="https://xuafeng.github.io/blogs"><font color="#123693">blog</font></a>] &nbsp;
-        [<a href="{{ '/publications' | relative_url }}"><font color="#123693">publications</font></a>]
-      </nav>
-    </header>
+  <div class="w" style="max-width: 800px; margin: 0 auto; padding: 4rem 2rem;">
+    <div class="c">
+      <a class="title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <div class="menu">
+        [<a href="https://xuafeng.github.io/CV-EN-2021.pdf">cv</a>] &nbsp;
+        [<a href="https://xuafeng.github.io/blogs">blog</a>] &nbsp;
+        [<a href="{{ '/publications' | relative_url }}">publications</a>]
+      </div>
+    </div>
     
     {{ content }}
   </div>
