@@ -4,7 +4,10 @@ title: publications
 ---
 
 ## selected publications
-_Conference_
+_preprint_
++ coming soon
+
+_conference_
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices._ Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 + Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. _Resident Evil: Understanding Residential IP Proxy as a Dark Service._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
@@ -17,6 +20,6 @@ _Conference_
 + **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun. _Identification of Visible Industrial Control Devices at Internet Scale._ IEEE International Conference on Communications (ICC'16), May 23-27, 2016, Kuala Lumpur, Malaysia. (CCF-C)
 + **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Jie Cui, Limin Sun. _Active Profiling of Physical Devices at Internet Scale._ IEEE International Conference on Computer Communication and Networks (ICCCN'16), August 1-4, 2016, Waikoloa, Hawaii, USA. (CCF-C)
 
-_Journal_
-- Qiang Li, **Xuan Feng**, Lian Zhao, Limin Sun. _A Framework for Searching Internet-wide Devices._ IEEE Network, 2017. (JCR Q1)
-- Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. _Understanding the Usage of Industrial Control System Devices on the Internet._ IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
+_journal_
++ Qiang Li, **Xuan Feng**, Lian Zhao, Limin Sun. _A Framework for Searching Internet-wide Devices._ IEEE Network, 2017. (JCR Q1)
++ Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. _Understanding the Usage of Industrial Control System Devices on the Internet._ IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
