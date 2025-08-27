@@ -1,14 +1,17 @@
 
-title: Xuan Feng's Homepage 🏚
+title: Xuan Feng's Homepage
 author: Xuan Feng
+email: xuafeng@microsoft.com
+url: https://xuafeng.win
 description:  my resume.
+
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark" 
-  back_home_text: ".." 
+  appearance: "auto" 
+  back_home_text: "../" 
   date_format: "%Y-%m-%d"
-  show_description: false 
+  show_description: false
 
 sass:
   style: :compressed
