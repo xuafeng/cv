@@ -5,6 +5,7 @@ title: publications
 
 ## selected publications
 _preprint_
++Xiangsen Chen, Xuan Feng, Shuo Chen, Sudipto Rakshit, Diana Duvieilh, Ashley Picone, Nan Tang. _CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?_, Transactions on Machine Learning Research, 2025 
 + Yuanye Liu, Jiahang Xu, Li Lyna Zhang, Qi Chen, Xuan Feng, Yang Chen, Zhongxin Guo, Yuqing Yang, Peng Cheng. _Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization_, arXiv:2502.04295 
 + Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, Xuan Feng, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, Peng Cheng, Mao Yang. _Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models_, arXiv:2501.13629
 + Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun. _Harnessing the Power of LLM to Support Binary Taint Analysis_, arXiv:2310.08275 
@@ -13,6 +14,7 @@ _preprint_
 + Xuan Feng, Shuo Chen, Haining Wang. _An internet-wide penetration study on nat boxes via tcp/ip side channel_, arXiv:2311.17392
 
 _conference_
+
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices._ Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 + Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. _Resident Evil: Understanding Residential IP Proxy as a Dark Service._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
