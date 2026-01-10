@@ -25,16 +25,16 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 + LLM for Asset Discovery: leverage LLM to write rules for device discovery (w/ MS Defender EASM/MDE), 2022/12
 + LLM for Bot Detection: leverage LLM to label bot accounts accessing MS Copilot (w/ MS Copilot), 2023/05
 + LLM for OSINT Processing: leverage LLM to write production quality TI reports ([paper](https://www.microsoft.com/en-us/research/publication/cyberthreat-eval-can-large-language-models-automate-real-world-threat-research/)) (w/ MDTI and Security Copilot), 2024/07
-+ LLM for Static Analysis: measure the performance of LLM for C/C++/Rust vulnerability detection, specifically for benchmark and comprehensive measurement, 2024/06
-+ Secure Scripting Language Generation: Lightweight Yet Secure Secure - Enable Lightweight LLMs to generate secure Scripting Language (PowerShell), 2024/11
++ LLM for Static Analysis: measure the performance of LLM for detecting real-world C/C++ UaF and Rust memmory-related vulnerabilities, specifically for benchmark and comprehensive insights, 2024/06
++ Secure Scripting Language Generation: enable lightweight LLMs to generate secure scripting language (PowerShell), 2024/11
 
 **Future Agent System** (2023/10 - ). I envision a future where there will be two main types of systems: AI Infrastructure System and Future Agent System. AI Infrastructure System is more clear and well-defined, while Future Agent System is still in a very early stage and more open-ended. 
-We are exploring this direction by **building production-level agent systems**, which are used in MS production to accelare their daily workflow. The key explored techniques include 
-+ Agent Benchmarking: defines which tasks you want AI to solve - it is critical. It defines what's the task, how to score task, can we have ways to collect representative data, etc.
-+ Agent Building: how to feed needed tools and conext to LLM and have a runnable agent; then, how to tune the agent prompt/code/context, or even the model to make it achieve the desired performance.
+We are exploring this direction by **building production-level agent systems**, which are used in MS production teams to accelare their daily workflow. The key explored techniques include 
++ Agent Benchmarking: defines which tasks you want AI to solve - it is critical and challenging. It includes what's the task abstract, how to score the task, how to collect enough and representative tasks (as eval or training datasets), etc.
++ Agent Building: how to feed needed tools and conext to LLM and have a runnable agent; then, how to tune the agent prompt/code/context, or even the model to make it achieve desired performance.
 + Agent Serving and Orchestration: when many agents are welled builded, how to orchestrate them to serve 1M users and make it continue evolving, etc.
 
-**System Intelligence** (2025/11 - ). I am also interested in using AI techniques to address challenging system problems. Current AI can now write code—but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design, implement, and maintain computing systems is a critical step toward unlocking AI's next level of capabilities. 
+**System Intelligence** (2025/08 - ). I am also interested in using AI techniques to address challenging system problems. Current AI can now write code—but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design, implement, and maintain computing systems is a critical leap toward AI's next level of capabilities. 
 We are activately pursing system intelligence. See [our project page](https://sys-intelligence.github.io/) and [our recent blog](https://www.sigops.org/2025/defining-system-intelligence/) for more details.
 + System Intelligence Benchmark: https://github.com/sys-intelligence/system-intelligence-benchmark, 2025/11
 + ...
@@ -44,6 +44,7 @@ We are activately pursing system intelligence. See [our project page](https://sy
 + Xiangsen Chen, Xuan Feng, Shuo Chen, Sudipto Rakshit, Diana Duvieilh, Ashley Picone, Nan Tang. _CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?_, Transactions on Machine Learning Research, 2025
 + Yuanye Liu, Jiahang Xu, Li Lyna Zhang, Qi Chen, **Xuan Feng**, Yang Chen, Zhongxin Guo, Yuqing Yang, Peng Cheng. _Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization_, arXiv preprint arXiv:2502.04295 
 + Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, **Xuan Feng**, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, Peng Cheng, Mao Yang. _Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models_, arXiv preprint arXiv:2501.13629
+
 + **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
 + **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices._ Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
 + Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. _Resident Evil: Understanding Residential IP Proxy as a Dark Service._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
