@@ -24,19 +24,19 @@ Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Than
 **AI + Security** (2014 - ). My Ph.D researches focused on using AI techniques (NLP) to enhance operational security in IoT domains. With the new AI technologies (LLM) emerging, I realized that there is a great potential to apply them for more broader security areas. Many of our research have been applied in real-world products.
 + LLM for Asset Discovery: leverage LLM to write rules for device discovery (w/ MS Defender EASM/MDE), 2022/12
 + LLM for Bot Detection: leverage LLM to label bot accounts accessing MS Copilot (w/ MS Copilot), 2023/05
-+ LLM for OSINT Processing: leverage LLM to write production quality TI reports ([paper](https://www.microsoft.com/en-us/research/publication/cyberthreat-eval-can-large-language-models-automate-real-world-threat-research/)) (w/ MDTI and Security Copilot), 2024/07
-+ LLM for Static Analysis: measure the performance of LLM for detecting real-world C/C++ UaF and Rust memmory-related vulnerabilities, specifically for benchmark and comprehensive insights, 2024/06
-+ Secure Scripting Language Generation: enable lightweight LLMs to generate secure scripting language (PowerShell), 2024/11
++ LLM for OSINT Processing: leverage LLM to write production quality TI reports ([paper](https://www.microsoft.com/en-us/research/publication/cyberthreat-eval-can-large-language-models-automate-real-world-threat-research/)) (w/ MS MDTI and Security Copilot), 2024/07
++ LLM for Static Analysis: measure the performance of LLM for detecting real-world C/C++ UaF and Rust memmory-related vulnerabilities, specifically for benchmark and comprehensive insights
++ Secure Scripting Language Generation: enable lightweight LLMs to generate secure scripting language (PowerShell)
 
-**Future Agent System** (2023/10 - ). I envision a future where there will be two main types of systems: AI Infrastructure System and Future Agent System. AI Infrastructure System is more clear and well-defined, while Future Agent System is still in a very early stage and more open-ended. 
+**Future Agent System** (2023/10 - ). We envision a future where there will be two main types of systems: AI Infra System and Future Agent System. AI Infra System is more clear and well-defined, while Future Agent System is still in a very early stage and more open-ended. 
 We are exploring this direction by **building production-level agent systems**, which are used in MS production teams to accelare their daily workflow. The key explored techniques include 
 + Agent Benchmarking: defines which tasks you want AI to solve - it is critical and challenging. It includes what's the task abstract, how to score the task, how to collect enough and representative tasks (as eval or training datasets), etc.
-+ Agent Building: how to feed needed tools and conext to LLM and have a runnable agent; then, how to tune the agent prompt/code/context, or even the model to make it achieve desired performance.
++ Agent Building: how to feed needed tools and conext to LLM and have a runnable agent; then, how to tune the agent prompt/code/context, or even the model to make it to achieve desired performance.
 + Agent Serving and Orchestration: when many agents are welled builded, how to orchestrate them to serve 1M users and make it continue evolving, etc.
 
-**System Intelligence** (2025/08 - ). I am also interested in using AI techniques to address challenging system problems. Current AI can now write code—but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design, implement, and maintain computing systems is a critical leap toward AI's next level of capabilities. 
-We are activately pursing system intelligence. See [our project page](https://sys-intelligence.github.io/) and [our recent blog](https://www.sigops.org/2025/defining-system-intelligence/) for more details.
-+ System Intelligence Benchmark: https://github.com/sys-intelligence/system-intelligence-benchmark, 2025/11
+**System Intelligence** (2025/08 - ). Current AI can now write code, but not systems. It lacks the capacity to reason about architecture, trade-offs, and timeless design principles. Enabling AI to design, implement, and maintain computing systems is a critical leap toward AI's next level of capabilities. 
+We are activately pursing system intelligence. See [our project page](https://sys-intelligence.github.io/) and [our recent blogs](https://sys-intelligence.github.io/blog.html) for more details.
++ System Intelligence Benchmark: [GitHub](https://github.com/sys-intelligence/system-intelligence-benchmark)
 + ...
 
 
