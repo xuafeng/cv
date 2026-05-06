@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<article class="note">
+  <header class="note-header">
+    <p><a href="{{ '/garden/' | relative_url }}">garden</a> /</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.summary %}
+      <p class="lede">{{ page.summary }}</p>
+    {% endif %}
+  </header>
+
+  {{ content }}
+
+  {% if page.related %}
+    <hr>
+    <p class="note-meta">Related</p>
+    <ul>
+      {% for item in page.related %}
+        {% assign related_note = site.notes | where: "slug", item | first %}
+        {% if related_note %}
+          <li><a href="{{ related_note.url | relative_url }}">{{ related_note.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  {% endif %}
+</article>
