@@ -3,20 +3,25 @@ layout: default
 ---
 
 <section class="site-hero">
-  <h1 class="hero-greeting"><span class="hero-wave" aria-hidden="true">👋</span> Hi, I'm Xuan Feng</h1>
-  <p class="hero-tagline">Senior researcher at Microsoft Research, building future agent systems and exploring system intelligence.</p>
-  <p class="hero-socials">
-    <a href="https://scholar.google.com/citations?user=Sld7-FoAAAAJ">Scholar</a>
-    <a href="https://xuafeng.github.io/CV-EN-2021.pdf">CV</a>
-    <a href="mailto:xuafeng@microsoft.com">Email</a>
-  </p>
+  <img class="hero-avatar" src="{{ '/assets/img/avatar.jpg' | relative_url }}" alt="Xuan Feng" width="120" height="120">
+  <div class="hero-body">
+    <h1 class="hero-greeting">Hi, I'm Xuan Feng</h1>
+    <p class="hero-tagline">Senior researcher at Microsoft Research, building secure/reliable/performant agentic systems and exploring system intelligence.</p>
+    <p class="hero-socials">
+      <a href="https://scholar.google.com/citations?user=Sld7-FoAAAAJ">Scholar</a>
+      <a href="https://xuafeng.github.io/CV-EN-2021.pdf">CV</a>
+      <a href="mailto:xuafeng@microsoft.com">Email</a>
+    </p>
+  </div>
 </section>
+
+<hr class="section-divider">
 
 I am a senior researcher at [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/) working on bridging the gap between general artificial intelligence and its real-world applications, specifically work on next-generation agent systems.
 
 Previously, I was a security researcher at the [Trustworthy Systems group](https://www.microsoft.com/en-us/research/group/trustworthy-systems-asia/) in the Systems and Networking research area at [Microsoft Research Asia - Beijing](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. in [Institute of Information Engineering](http://www.iie.ac.cn/) (IIE), Chinese Academy of Sciences (CAS) in July 2020. I visited [Indiana University Bloomington](https://www.indiana.edu/) as a visiting scholar (supervised by Prof. XiaoFeng Wang) in 2018.
 
-My research interests include _Future Agent System, System Intelligence, AI for operational/defensive security_, with the specific focus on using a AI-driven approach to identify and address security problems, system problems, and any other real-world impactful problems. I am interested in proposing new methods or building AI-powered tools to empower your daily productivity.
+My research interests include _Agentic System, System Intelligence, AI for Security_, with the specific focus on using a AI-driven approach to identify and address security problems, system problems, and any other real-world impactful problems. I am interested in proposing new methods or building AI-powered tools to empower your daily productivity.
 
 <p class="contact-line">Feel free to reach me at xuafeng (at) microsoft.com, if you have questions. Thanks :)</p>
 
@@ -32,7 +37,7 @@ My research interests include _Future Agent System, System Intelligence, AI for 
 
 ## Projects
 
-<p class="project-intro">My recent work moves from AI-assisted security toward agent systems and, more broadly, system intelligence.</p>
+<p class="project-intro">My recent work moves from AI-assisted security toward agentic systems and, more broadly, system intelligence.</p>
 
 <div class="project-narrative" markdown="1">
 
@@ -52,7 +57,7 @@ Current AI can now write code, but not systems. It lacks the capacity to reason 
 We are activately pursing system intelligence. See [our project page](https://sys-intelligence.github.io/) and [our recent blogs](https://sys-intelligence.github.io/blog.html) for more details.
 
 + System Intelligence Benchmark: [GitHub](https://github.com/sys-intelligence/system-intelligence-benchmark)
-+ ...
+
 </section>
 
 <section class="project-block" markdown="1">
@@ -61,14 +66,14 @@ We are activately pursing system intelligence. See [our project page](https://sy
     <span class="project-period">2023/10 - present</span>
   </div>
 
-<p class="project-summary">Building production-level agent systems that can be evaluated, tuned, served, and orchestrated.</p>
+<p class="project-summary">Building production-ready agentic systems that can be auto tuned and evoloved.</p>
 
 We envision a future where there will be two main types of systems: AI Infra System and Future Agent System. AI Infra System is more clear and well-defined, while Future Agent System is still in a very early stage and more open-ended.
 
-We are exploring this direction by **building production-level agent systems**, which are used in MS production teams to accelare their daily workflow. The key explored techniques include
+We are exploring this direction by **building production-ready agentic systems**, which are used in MS production teams to accelare their daily workflow. The key explored techniques include
 
 + Agent Benchmarking: defines which tasks you want AI to solve - it is critical and challenging. It includes what's the task abstract, how to score the task, how to collect enough and representative tasks (as eval or training datasets), etc.
-+ Agent Building: how to feed needed tools and conext to LLM and have a runnable agent; then, how to tune the agent prompt/code/context, or even the model to make it to achieve desired performance.
++ Agent Building: how to feed needed tools, conext, domain expertise to LLM and have a runnable agentic workflow; then, how to tune the agent harness/prompt/code/context, or even the model to make it to achieve desired performance.
 + Agent Serving and Orchestration: when many agents are welled builded, how to orchestrate them to serve 1M users and make it continue evolving, etc.
 </section>
 

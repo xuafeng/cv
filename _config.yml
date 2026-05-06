@@ -1,11 +1,11 @@
 
-title: Xuan Feng
-author: Xuan Feng
+title: Xuan FENG
+author: Xuan FENG
 chinese_name: 丰轩
 email: xuafeng@microsoft.com
 url: https://xuafeng.win
 baseurl: /cv
-description: Researcher at Microsoft Research Asia - Vancouver working on future agent systems, system intelligence, and AI for security.
+description: Researcher at MSR.
 
 theme_config:
   appearance: "auto" 

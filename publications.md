@@ -4,30 +4,121 @@ title: publications
 permalink: /publications/
 ---
 
-## selected publications
-_preprint_
-+ Xiangsen Chen, Xuan Feng, Shuo Chen, Sudipto Rakshit, Diana Duvieilh, Ashley Picone, Nan Tang. _CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?_, Transactions on Machine Learning Research, 2025 
-+ Yuanye Liu, Jiahang Xu, Li Lyna Zhang, Qi Chen, Xuan Feng, Yang Chen, Zhongxin Guo, Yuqing Yang, Peng Cheng. _Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization_, arXiv:2502.04295 
-+ Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, Xuan Feng, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, Peng Cheng, Mao Yang. _Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models_, arXiv:2501.13629
-+ Puzhuo Liu, Chengnian Sun, Yaowen Zheng, Xuan Feng, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun. _Harnessing the Power of LLM to Support Binary Taint Analysis_, arXiv:2310.08275 
-+ Haoyuan Wang, Yue Xue, Xuan Feng, Chao Zhou, Xianghang Mi. _Port Forwarding Services Are Forwarding Security Risks_, arXiv:2403.16060
-+ Yu Bi, Yekai Li, Xuan Feng, Xianghang Mi. _Enabling privacy-preserving cyber threat detection with federated learning_, arXiv:2404.05130
-+ Xuan Feng, Shuo Chen, Haining Wang. _An internet-wide penetration study on nat boxes via tcp/ip side channel_, arXiv:2311.17392
+# Publications
 
-_conference_
+A list of my peer-reviewed and preprint work, grouped by venue type.
 
-+ **Xuan Feng**, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun. _Understanding and Securing Device Vulnerabilities through Automated BugReport Analysis._ Proceedings of the USENIX Security Symposium 2019 (SEC'19), AUGUST 14–16, 2019, SANTA CLARA, CA, USA. (CCF-A)
-+ **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices._ Proceedings of the USENIX Security Symposium 2018 (SEC'18), AUGUST 15–17, 2018, BALTIMORE, MD, USA. (CCF-A)
-+ Xianghang Mi, **Xuan Feng**, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu. _Resident Evil: Understanding Residential IP Proxy as a Dark Service._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P 2019). (CCF-A)
-+ Nan Zhang, Xianghang Mi, **Xuan Feng**, XiaoFeng Wang, Yuan Tian, Feng Qian. _Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A) **CSAW'19 Best Paper Award** (3rd Place, 3 out of 80)
-+ Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao,  **Xuan Feng**, Kan Yuan, Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou. _Demystifying Hidden Privacy Settings in Mobile Apps._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). (CCF-A)
-+ Kan Yuan, Di Tang, Xiaojing Liao, XiaoFeng Wang, **Xuan Feng**, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang. _Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion._ Proceedings of the 40th IEEE Symposium on Security and Privacy (S&P'2019). 
-+ Qiang Li, **Xuan Feng**, Zhi Li, Haining Wang, Linmin Sun. _Towards Fine-grained Fingerprinting of Firmware in Online Embedded Devices._ Proceedings of the IEEE International Conference on Computer Communications 2018 (Infocom'2018), April 15-19, 2018, Honolulu, HI, USA. (CCF-A)
-+ Qiang Li, **Xuan Feng**, Haining Wang, Limin Sun. _Automatic Discovery of Surveillance Devices in the Cyberspace._ Proceedings of the ACM Multimedia Systems 2017 Conference (MMsys'17), June 20-23, 2017, Taipei, Taiwan.
-+ **Xuan Feng**, Qiang Li, Haining Wang, Limin Sun. _Characterizing Industrial Control Equipments on the Internet._ IEEE International Conference on Network Protocols (ICNP'16), November 8-11, 2016, Singapore. (CCF-B)
-+ **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun. _Identification of Visible Industrial Control Devices at Internet Scale._ IEEE International Conference on Communications (ICC'16), May 23-27, 2016, Kuala Lumpur, Malaysia. (CCF-C)
-+ **Xuan Feng**, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Jie Cui, Limin Sun. _Active Profiling of Physical Devices at Internet Scale._ IEEE International Conference on Computer Communication and Networks (ICCCN'16), August 1-4, 2016, Waikoloa, Hawaii, USA. (CCF-C)
+## Preprints
 
-_journal_
-+ Qiang Li, **Xuan Feng**, Lian Zhao, Limin Sun. _A Framework for Searching Internet-wide Devices._ IEEE Network, 2017. (JCR Q1)
-+ Qiang Li, **Xuan Feng**, Haining Wang and Limin Sun. _Understanding the Usage of Industrial Control System Devices on the Internet._ IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)
+<ul class="publication-list">
+  <li>
+    <cite>CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?</cite>
+    <span class="pub-meta">Xiangsen Chen, <strong>Xuan Feng</strong>, Shuo Chen, Sudipto Rakshit, Diana Duvieilh, Ashley Picone, Nan Tang.</span>
+    <span class="pub-venue">Transactions on Machine Learning Research, 2025</span>
+  </li>
+  <li>
+    <cite>Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization</cite>
+    <span class="pub-meta">Yuanye Liu, Jiahang Xu, Li Lyna Zhang, Qi Chen, <strong>Xuan Feng</strong>, Yang Chen, Zhongxin Guo, Yuqing Yang, Peng Cheng.</span>
+    <span class="pub-venue">arXiv:2502.04295</span>
+  </li>
+  <li>
+    <cite>Sigma: Differential Rescaling of Query, Key and Value for Efficient Language Models</cite>
+    <span class="pub-meta">Zhenghao Lin, Zihao Tang, Xiao Liu, Yeyun Gong, Yi Cheng, Qi Chen, Hang Li, Ying Xin, Ziyue Yang, Kailai Yang, Yu Yan, Xiao Liang, Shuai Lu, Yiming Huang, Zheheng Luo, Lei Qu, <strong>Xuan Feng</strong>, Yaoxiang Wang, Yuqing Xia, Feiyang Chen, Yuting Jiang, Yasen Hu, Hao Ni, Binyang Li, Guoshuai Zhao, Jui-Hao Chiang, Zhongxin Guo, Chen Lin, Kun Kuang, Wenjie Li, Yelong Shen, Jian Jiao, Peng Cheng, Mao Yang.</span>
+    <span class="pub-venue">arXiv:2501.13629</span>
+  </li>
+  <li>
+    <cite>Harnessing the Power of LLM to Support Binary Taint Analysis</cite>
+    <span class="pub-meta">Puzhuo Liu, Chengnian Sun, Yaowen Zheng, <strong>Xuan Feng</strong>, Chuan Qin, Yuncheng Wang, Zhenyang Xu, Zhi Li, Peng Di, Yu Jiang, Limin Sun.</span>
+    <span class="pub-venue">arXiv:2310.08275</span>
+  </li>
+  <li>
+    <cite>Port Forwarding Services Are Forwarding Security Risks</cite>
+    <span class="pub-meta">Haoyuan Wang, Yue Xue, <strong>Xuan Feng</strong>, Chao Zhou, Xianghang Mi.</span>
+    <span class="pub-venue">arXiv:2403.16060</span>
+  </li>
+  <li>
+    <cite>Enabling Privacy-Preserving Cyber Threat Detection with Federated Learning</cite>
+    <span class="pub-meta">Yu Bi, Yekai Li, <strong>Xuan Feng</strong>, Xianghang Mi.</span>
+    <span class="pub-venue">arXiv:2404.05130</span>
+  </li>
+  <li>
+    <cite>An Internet-Wide Penetration Study on NAT Boxes via TCP/IP Side Channel</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Shuo Chen, Haining Wang.</span>
+    <span class="pub-venue">arXiv:2311.17392</span>
+  </li>
+</ul>
+
+## Conference Papers
+
+<ul class="publication-list">
+  <li>
+    <cite>Understanding and Securing Device Vulnerabilities through Automated Bug Report Analysis</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Xiaojing Liao, XiaoFeng Wang, Haining Wang, Qiang Li, Kai Yang, Hongsong Zhu, Limin Sun.</span>
+    <span class="pub-venue">USENIX Security Symposium 2019 (SEC'19), Santa Clara, CA. (CCF-A)</span>
+  </li>
+  <li>
+    <cite>Acquisitional Rule-based Engine for Discovering Internet-of-Thing Devices</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Qiang Li, Haining Wang, Limin Sun.</span>
+    <span class="pub-venue">USENIX Security Symposium 2018 (SEC'18), Baltimore, MD. (CCF-A)</span>
+  </li>
+  <li>
+    <cite>Resident Evil: Understanding Residential IP Proxy as a Dark Service</cite>
+    <span class="pub-meta">Xianghang Mi, <strong>Xuan Feng</strong>, Xiaojing Liao, Baojun Liu, XiaoFeng Wang, Feng Qian, Sumayah Alrwais, Limin Sun, Ying Liu.</span>
+    <span class="pub-venue">IEEE Symposium on Security and Privacy (S&amp;P 2019). (CCF-A)</span>
+  </li>
+  <li>
+    <cite>Dangerous Skills: Understanding and Mitigating Security Risks of Voice-Controlled Third-Party Functions on Virtual Personal Assistant Systems</cite>
+    <span class="pub-meta">Nan Zhang, Xianghang Mi, <strong>Xuan Feng</strong>, XiaoFeng Wang, Yuan Tian, Feng Qian.</span>
+    <span class="pub-venue">IEEE Symposium on Security and Privacy (S&amp;P 2019). (CCF-A) <strong>CSAW'19 Best Paper Award (3rd Place)</strong></span>
+  </li>
+  <li>
+    <cite>Demystifying Hidden Privacy Settings in Mobile Apps</cite>
+    <span class="pub-meta">Yi Chen, Mingming Zha, Nan Zhang, Dandan Xu, Qianqian Zhao, <strong>Xuan Feng</strong>, Kan Yuan, Ya Su, Yuan Tian, Kai Chen, Xiaofeng Wang, Wei Zou.</span>
+    <span class="pub-venue">IEEE Symposium on Security and Privacy (S&amp;P 2019). (CCF-A)</span>
+  </li>
+  <li>
+    <cite>Stealthy Porn: Understanding Real-World Adversarial Images for Illicit Online Promotion</cite>
+    <span class="pub-meta">Kan Yuan, Di Tang, Xiaojing Liao, XiaoFeng Wang, <strong>Xuan Feng</strong>, Yi Chen, Menghan Sun, Haoran Lu, Kehuan Zhang.</span>
+    <span class="pub-venue">IEEE Symposium on Security and Privacy (S&amp;P 2019).</span>
+  </li>
+  <li>
+    <cite>Towards Fine-grained Fingerprinting of Firmware in Online Embedded Devices</cite>
+    <span class="pub-meta">Qiang Li, <strong>Xuan Feng</strong>, Zhi Li, Haining Wang, Limin Sun.</span>
+    <span class="pub-venue">IEEE INFOCOM 2018, Honolulu, HI. (CCF-A)</span>
+  </li>
+  <li>
+    <cite>Automatic Discovery of Surveillance Devices in the Cyberspace</cite>
+    <span class="pub-meta">Qiang Li, <strong>Xuan Feng</strong>, Haining Wang, Limin Sun.</span>
+    <span class="pub-venue">ACM Multimedia Systems 2017 (MMSys'17), Taipei, Taiwan.</span>
+  </li>
+  <li>
+    <cite>Characterizing Industrial Control Equipments on the Internet</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Qiang Li, Haining Wang, Limin Sun.</span>
+    <span class="pub-venue">IEEE International Conference on Network Protocols (ICNP'16), Singapore. (CCF-B)</span>
+  </li>
+  <li>
+    <cite>Identification of Visible Industrial Control Devices at Internet Scale</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Limin Sun.</span>
+    <span class="pub-venue">IEEE International Conference on Communications (ICC'16), Kuala Lumpur. (CCF-C)</span>
+  </li>
+  <li>
+    <cite>Active Profiling of Physical Devices at Internet Scale</cite>
+    <span class="pub-meta"><strong>Xuan Feng</strong>, Qiang Li, Qi Han, Hongsong Zhu, Yan Liu, Jie Cui, Limin Sun.</span>
+    <span class="pub-venue">IEEE International Conference on Computer Communication and Networks (ICCCN'16), Waikoloa, HI. (CCF-C)</span>
+  </li>
+</ul>
+
+## Journal Articles
+
+<ul class="publication-list">
+  <li>
+    <cite>A Framework for Searching Internet-wide Devices</cite>
+    <span class="pub-meta">Qiang Li, <strong>Xuan Feng</strong>, Lian Zhao, Limin Sun.</span>
+    <span class="pub-venue">IEEE Network, 2017. (JCR Q1)</span>
+  </li>
+  <li>
+    <cite>Understanding the Usage of Industrial Control System Devices on the Internet</cite>
+    <span class="pub-meta">Qiang Li, <strong>Xuan Feng</strong>, Haining Wang, Limin Sun.</span>
+    <span class="pub-venue">IEEE Internet of Things Journal, vol. 5, no. 3, pp. 2178-2189, June 2018. (JCR Q1)</span>
+  </li>
+</ul>
