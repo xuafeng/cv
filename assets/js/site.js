@@ -41,4 +41,11 @@
     anchor.setAttribute("aria-label", "Link to " + heading.textContent);
     heading.appendChild(anchor);
   });
+
+  var origin = window.location.origin;
+  document.querySelectorAll('.page a[href^="http"]').forEach(function (link) {
+    if (link.href.indexOf(origin) === 0) return;
+    link.setAttribute("target", "_blank");
+    link.setAttribute("rel", "noopener noreferrer");
+  });
 })();
