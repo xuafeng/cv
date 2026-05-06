@@ -2,11 +2,45 @@
 <html lang="{{ page.lang | default: "en" }}">
   {%- include head.html -%}
   <body a="{{ site.theme_config.appearance | default: "auto" }}">
-    <main class="page-content" aria-label="Content">
-      <div class="w" style="max-width: 730px !important;">
+    <nav class="top-nav">
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        <span class="site-name-group">
+          <span class="site-name">{{ site.author | default: site.title }}</span>
+        </span>
+      </a>
+      {% if site.data.menu.entries.size > 0 %}
+        <span class="nav-links">
+          {% for item in site.data.menu.entries %}
+            {% assign first_char = item.url | slice: 0 %}
+            {% if item.url contains "://" or item.url contains "mailto:" or first_char == "#" %}
+              <a href="{{ item.url }}">{{ item.title }}</a>
+            {% else %}
+              <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" aria-pressed="false">
+        <span class="theme-icon theme-icon-moon" aria-hidden="true"></span>
+        <span class="theme-icon theme-icon-sun" aria-hidden="true"></span>
+      </button>
+    </nav>
+    <div class="wrapper">
+      <main class="page" aria-label="Content">
         {{ content }}
-      </div>
-    </main>
+      </main>
+      <footer class="site-footer">
+        <p class="footer-links">
+          <a href="{{ '/now/' | relative_url }}">Now</a>
+          <a href="{{ '/publications/' | relative_url }}">Publications</a>
+          <a href="https://xuafeng.github.io/blogs">Blogs</a>
+          <a href="https://xuafeng.github.io/CV-EN-2021.pdf">CV</a>
+          <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+          <a href="mailto:{{ site.email }}">Email</a>
+        </p>
+        <p class="footer-note">Xuan Feng / 丰轩</p>
+      </footer>
+    </div>
 
     {%-if site.goat_counter and jekyll.environment == "production"-%}
       {%-include goat_counter.html-%}
@@ -17,5 +51,6 @@
         <script type="text/javascript" src="{{ site.baseurl }}/assets/js/{{ js_file }}.js"></script>
       {% endfor %}
     {% endif %}
+    <script src="{{ '/assets/js/site.js' | relative_url }}"></script>
   </body>
 </html>
