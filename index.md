@@ -17,7 +17,7 @@ layout: default
 
 <hr class="section-divider">
 
-I am a senior researcher at [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/) working on bridging the gap between general artificial intelligence and its real-world applications, specifically work on next-generation agent systems.
+I am a senior researcher at [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/) working on bridging the gap between general artificial intelligence and its real-world applications, specifically work on next-generation agentic systems.
 
 Previously, I was a security researcher at the [Trustworthy Systems group](https://www.microsoft.com/en-us/research/group/trustworthy-systems-asia/) in the Systems and Networking research area at [Microsoft Research Asia - Beijing](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. in [Institute of Information Engineering](http://www.iie.ac.cn/) (IIE), Chinese Academy of Sciences (CAS) in July 2020. I visited [Indiana University Bloomington](https://www.indiana.edu/) as a visiting scholar (supervised by Prof. XiaoFeng Wang) in 2018.
 
@@ -62,13 +62,13 @@ We are activately pursing system intelligence. See [our project page](https://sy
 
 <section class="project-block" markdown="1">
   <div class="project-head">
-    <h3>Future Agent System</h3>
+    <h3>Agentic Systems</h3>
     <span class="project-period">2023/10 - present</span>
   </div>
 
 <p class="project-summary">Building production-ready agentic systems that can be auto tuned and evoloved.</p>
 
-We envision a future where there will be two main types of systems: AI Infra System and Future Agent System. AI Infra System is more clear and well-defined, while Future Agent System is still in a very early stage and more open-ended.
+We envision a future where there will be two main types of systems: AI Infra Systems and Agentic Systems. AI Infra Systems are more clear and well-defined, while Agentic Systems are still in a very early stage and more open-ended.
 
 We are exploring this direction by **building production-ready agentic systems**, which are used in MS production teams to accelare their daily workflow. The key explored techniques include
 
