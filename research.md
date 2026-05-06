@@ -1,10 +1,10 @@
 ---
 layout: default
-title: garden
-permalink: /garden/
+title: research
+permalink: /research/
 ---
 
-# Garden
+# Research
 
 These are evolving notes around my research agenda.
 

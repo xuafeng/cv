@@ -23,7 +23,7 @@ plugins:
 collections:
   notes:
     output: true
-    permalink: /garden/:name/
+    permalink: /research/:name/
 
 defaults:
   - scope:

@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<section class="site-hero">
+  <h1 class="hero-greeting"><span class="hero-wave" aria-hidden="true">👋</span> Hi, I'm Xuan Feng</h1>
+  <p class="hero-tagline">Senior researcher at Microsoft Research, building future agent systems and exploring system intelligence.</p>
+  <p class="hero-socials">
+    <a href="https://scholar.google.com/citations?user=Sld7-FoAAAAJ">Scholar</a>
+    <a href="https://xuafeng.github.io/CV-EN-2021.pdf">CV</a>
+    <a href="mailto:xuafeng@microsoft.com">Email</a>
+  </p>
+</section>
+
 I am a senior researcher at [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/) working on bridging the gap between general artificial intelligence and its real-world applications, specifically work on next-generation agent systems.
 
 Previously, I was a security researcher at the [Trustworthy Systems group](https://www.microsoft.com/en-us/research/group/trustworthy-systems-asia/) in the Systems and Networking research area at [Microsoft Research Asia - Beijing](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/). I received my Ph.D. in [Institute of Information Engineering](http://www.iie.ac.cn/) (IIE), Chinese Academy of Sciences (CAS) in July 2020. I visited [Indiana University Bloomington](https://www.indiana.edu/) as a visiting scholar (supervised by Prof. XiaoFeng Wang) in 2018.
