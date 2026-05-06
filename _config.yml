@@ -1,17 +1,17 @@
 
-title: Xuan Feng's Homepage
+title: Xuan Feng
 author: Xuan Feng
+chinese_name: 丰轩
 email: xuafeng@microsoft.com
 url: https://xuafeng.win
-description:  my resume.
-
-remote_theme: riggraz/no-style-please
+baseurl: /cv
+description: Researcher at Microsoft Research Asia - Vancouver working on future agent systems, system intelligence, and AI for security.
 
 theme_config:
   appearance: "auto" 
   back_home_text: "../" 
   date_format: "%Y-%m-%d"
-  show_description: false
+  show_description: true
 
 sass:
   style: :compressed
@@ -19,3 +19,15 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+collections:
+  notes:
+    output: true
+    permalink: /garden/:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: note
