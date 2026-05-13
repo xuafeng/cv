@@ -6,7 +6,7 @@ permalink: /now/
 
 # Now
 
-I am currenty based in Vancouver and working @ [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/).
+I am currenty living in Vancouver and working @ [Microsoft Research Asia - Vancouver Lab](https://www.microsoft.com/en-us/research/group/microsoft-research-asia-vancouver/).
 
 Current focus:
 
